@@ -7,6 +7,7 @@
 | Amazon       | https://www.amazon.jobs/en/ |
 | Netflix      | https://jobs.netflix.com |
 | Google       | https://careers.google.com |
+| Microsoft    | https://careers.microsoft.com/us/en |
 
 ## Roadmap
 Expectation is to be able to search for number of open positions with some simple queries like some tags and location.
